@@ -3,9 +3,7 @@ Sudoku solver written in C++ using backtracking. Also, created own stack data st
 ### To run in the terminal
     >make
     >./sudoku
-Then, type in the 9X9 sudoku puzzle entering after each line.
-
-Use underscores for blanks.
+Then, type in the 9X9 sudoku puzzle entering after each line. Use underscores for blanks.
 
 For example:
     _6_49____ 
