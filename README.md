@@ -8,6 +8,7 @@ Then, type in the 9X9 sudoku puzzle entering after each line.
 Use underscores for blanks.
 
 For example:
+
     _6_49____ 
     2_4_169__
     37_5_2__1
